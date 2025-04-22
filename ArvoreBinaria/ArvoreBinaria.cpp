@@ -37,7 +37,7 @@ void menu()
 {
 	int op = 0;
 	while (op != 5) {
-		system("cls"); // somente no windows
+		system("cls");
 		cout << "Menu Arvore";
 		cout << endl << endl;
 		cout << "1 - Inicializar Arvore \n";
