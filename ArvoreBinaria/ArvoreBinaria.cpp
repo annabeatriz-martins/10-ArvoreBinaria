@@ -64,7 +64,7 @@ void menu()
 			break;
 		}
 
-		system("pause"); // somente no windows
+		system("pause");
 	}
 }
 
